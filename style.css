@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400; 
+    font-style: normal;
+    background: black;
+    color: #e7e7e7;
+    min-height: 100vh;
+    line-height: 1.5;
+
+}
+
+.image-gradient{
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.layer-blur{
+    height: 0;
+    width: 30rem;
+    position: absolute;
+    top: 20%;
+    right: 0;
+    box-shadow: 0 0 700px 20px #e7e7e7;
+    z-index: -1;
+}
