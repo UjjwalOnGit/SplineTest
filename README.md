@@ -1,36 +1,38 @@
-# SplineTest
+# ⚡ SplineTest 🚀
 
-Welcome to **SplineTest** — a dope project showcasing cool 3D spline animations and interactive web elements.
+A slick project experimenting with 3D spline animations and interactive web UI, blending smooth visuals with modern web tech. Perfect to get inspired or learn spline-based interactions!
+
+![Made With JavaScript](https://img.shields.io/badge/Made%20With-JS-yellow?style=for-the-badge&logo=javascript)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+
+---
+
+## 🧠 What's Inside?
+
+This repo features:
+
+- ✅ Interactive 3D spline animations  
+- ✅ Responsive & modern UI design  
+- ✅ Lightweight and performance-focused  
+- ✅ Built with Three.js / Spline tech stack  
+
+---
+
+## 🌟 Preview
+
+Check out the vibe below 👇
 
 ![Website Preview](swappy-20250526-115024.png)
 
 ---
 
-## About
+## 🚀 How to Run Locally
 
-This repo hosts my personal project to experiment with spline-based 3D animations and interactive UI components. Built with love and mad coding skills, it’s all about blending creative visuals with smooth user experience.
+Clone the repo and open `index.html` in your browser or use a local server:
 
----
-
-## Features
-
-- Interactive 3D spline animations  
-- Responsive design  
-- Clean and modern UI  
-- Lightweight and performant  
-
----
-
-## Tech Stack
-
-- **JavaScript / TypeScript** (whatever you’re rocking)  
-- **Three.js / Spline** (for the 3D magic)  
-- HTML5 & CSS3  
-
----
-
-## How to Run
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/UjjwalOnGit/SplineTest.git
+```bash
+git clone https://github.com/UjjwalOnGit/SplineTest.git
+cd SplineTest
+# Use any local server, eg:
+npx http-server
+# Then open http://localhost:8080 in your browser
