@@ -11,15 +11,15 @@ A sleek, interactive website built using [Spline](https://spline.design/), blend
 ## 🚀 Features
 
 - ✨ **3D Magic**
-- 🎯 **Responsive Design**: :contentReference[oaicite:7]{index=7}
-- 🧩 **Modular Code**: :contentReference[oaicite:10]{index=10}:contentReference[oaicite:12]{index=12}
+- 🎯 **Responsive Design**
+- 🧩 **Modular Code**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**:}
-- **Design**: 
+- **Frontend**
+- **Design**:
 
 ---
 
