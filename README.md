@@ -2,7 +2,8 @@
 
 A slick project experimenting with 3D spline animations and interactive web UI, blending smooth visuals with modern web tech. Perfect to get inspired or learn spline-based interactions!
 
-![Made With JavaScript](https://img.shields.io/badge/Made%20With-JS-yellow?style=for-the-badge&logo=javascript)
+![Made With HTML5](https://img.shields.io/badge/Made%20With-HTML5-orange?style=for-the-badge&logo=html5)
+![Made With CSS3](https://img.shields.io/badge/Made%20With-CSS3-blue?style=for-the-badge&logo=css3)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 ---
