@@ -1,4 +1,4 @@
-# ⚡ SplineTest 🚀
+---> ⚡ SplineTest 🚀
 
 A slick project experimenting with 3D spline animations and interactive web UI, blending smooth visuals with modern web tech. Perfect to get inspired or learn spline-based interactions!
 
@@ -8,26 +8,33 @@ A slick project experimenting with 3D spline animations and interactive web UI, 
 
 ---
 
-## 🧠 What's Inside?
+---> 🧠 What's Inside?
 
 This repo features:
 
 - ✅ Interactive 3D spline animations  
 - ✅ Responsive & modern UI design  
 - ✅ Lightweight and performance-focused  
-- ✅ Built with Three.js / Spline tech stack  
 
----
 
-## 🌟 Preview
+---> 🌟 Preview
 
 Check out the vibe below 👇
 
 ![Website Preview](swappy-20250526-115024.png)
 
----
+## 📂 Project Structure
 
-## 🚀 How to Run Locally
+
+```bash
+├── index.html
+├── style.css
+├── gradient.png
+├── swappy-20250526-115024.png
+└── README.md
+```
+
+---> 🚀 How to Run Locally
 
 Clone the repo and open `index.html` in your browser or use a local server:
 
@@ -37,3 +44,4 @@ cd SplineTest
 # Use any local server, eg:
 npx http-server
 # Then open http://localhost:8080 in your browser
+
